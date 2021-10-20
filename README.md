@@ -1,2 +1,2 @@
-# Sleepy Head
+# BioInformatics
 NAPTIME IS REQUIRED
